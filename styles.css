@@ -5,13 +5,13 @@ body {
 .sea{
     font-size: 50px;
     color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .river {
     font-size: 50px;
     color: green;
-}
-
+    font-family:Georgia, 'Times New Roman', Times, serif
 ul {
     list-style: none;
 }
