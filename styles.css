@@ -1,5 +1,16 @@
 body {
+    background-color: #4AB3F4;
+}
 
+a:link{
+    text-decoration: none;
+    color: black;
+  }
+  a:visited{
+      color: white;
+  }
+a:hover{
+    color: purple;
 }
 
 .sea{
@@ -12,9 +23,6 @@ body {
     font-size: 50px;
     color: green;
     font-family:Georgia, 'Times New Roman', Times, serif
-ul {
-    list-style: none;
-}
 
 p {
     display: inline-block;
